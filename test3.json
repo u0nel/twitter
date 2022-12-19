@@ -1,0 +1,185 @@
+{
+  "entryId": "tweet-1509951255388504066",
+  "sortIndex": "1509951255388504066",
+  "content": {
+    "entryType": "TimelineTimelineItem",
+    "itemContent": {
+      "itemType": "TimelineTweet",
+      "tweet_results": {
+        "result": {
+          "__typename": "Tweet",
+          "rest_id": "1509951255388504066",
+          "core": {
+            "user_results": {
+              "result": {
+                "__typename": "User",
+                "id": "VXNlcjo3ODMyMTQ=",
+                "rest_id": "783214",
+                "affiliates_highlighted_label": {},
+                "has_nft_avatar": false,
+                "legacy": {
+                  "created_at": "Tue Feb 20 14:35:54 +0000 2007",
+                  "default_profile": false,
+                  "default_profile_image": false,
+                  "description": "What's happening?!",
+                  "entities": {
+                    "description": {
+                      "urls": []
+                    },
+                    "url": {
+                      "urls": [
+                        {
+                          "display_url": "about.twitter.com",
+                          "expanded_url": "https://about.twitter.com/",
+                          "url": "https://t.co/DAtOo6uuHk",
+                          "indices": [
+                            0,
+                            23
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  "fast_followers_count": 0,
+                  "favourites_count": 6232,
+                  "followers_count": 61924070,
+                  "friends_count": 0,
+                  "has_custom_timelines": true,
+                  "is_translator": false,
+                  "listed_count": 87623,
+                  "location": "everywhere",
+                  "media_count": 2441,
+                  "name": "Twitter",
+                  "normal_followers_count": 61924070,
+                  "pinned_tweet_ids_str": [],
+                  "possibly_sensitive": false,
+                  "profile_banner_extensions": {
+                    "mediaColor": {
+                      "r": {
+                        "ok": {
+                          "palette": [
+                            {
+                              "percentage": 57.9,
+                              "rgb": {
+                                "blue": 247,
+                                "green": 161,
+                                "red": 17
+                              }
+                            },
+                            {
+                              "percentage": 24.76,
+                              "rgb": {
+                                "blue": 43,
+                                "green": 31,
+                                "red": 21
+                              }
+                            },
+                            {
+                              "percentage": 6.96,
+                              "rgb": {
+                                "blue": 178,
+                                "green": 204,
+                                "red": 224
+                              }
+                            },
+                            {
+                              "percentage": 2.07,
+                              "rgb": {
+                                "blue": 29,
+                                "green": 55,
+                                "red": 97
+                              }
+                            },
+                            {
+                              "percentage": 1.25,
+                              "rgb": {
+                                "blue": 114,
+                                "green": 76,
+                                "red": 19
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1646075315",
+                  "profile_image_extensions": {
+                    "mediaColor": {
+                      "r": {
+                        "ok": {
+                          "palette": [
+                            {
+                              "percentage": 84.01,
+                              "rgb": {
+                                "blue": 240,
+                                "green": 155,
+                                "red": 30
+                              }
+                            },
+                            {
+                              "percentage": 14.54,
+                              "rgb": {
+                                "blue": 255,
+                                "green": 255,
+                                "red": 255
+                              }
+                            },
+                            {
+                              "percentage": 1.61,
+                              "rgb": {
+                                "blue": 236,
+                                "green": 197,
+                                "red": 124
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    }
+                  },
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488548719062654976/u6qfBBkF_normal.jpg",
+                  "profile_interstitial_type": "",
+                  "protected": false,
+                  "screen_name": "Twitter",
+                  "statuses_count": 15006,
+                  "translator_type": "regular",
+                  "url": "https://t.co/DAtOo6uuHk",
+                  "verified": true,
+                  "withheld_in_countries": []
+                }
+              }
+            }
+          },
+          "legacy": {
+            "created_at": "Fri Apr 01 17:50:07 +0000 2022",
+            "conversation_id_str": "1509951255388504066",
+            "display_text_range": [
+              0,
+              32
+            ],
+            "entities": {
+              "user_mentions": [],
+              "urls": [],
+              "hashtags": [],
+              "symbols": []
+            },
+            "favorite_count": 1351580,
+            "favorited": false,
+            "full_text": "we are working on an edit button",
+            "is_quote_status": false,
+            "lang": "en",
+            "quote_count": 133544,
+            "reply_count": 63930,
+            "retweet_count": 125318,
+            "retweeted": false,
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "user_id_str": "783214",
+            "id_str": "1509951255388504066"
+          }
+        }
+      },
+      "tweetDisplayType": "Tweet"
+    }
+  }
+}
